@@ -22,7 +22,7 @@ publications:
     journal: 
     image: 
     citation: ""
-    pdf: https://www.nature.com/articles/ncomms2819.pdf
+    pdf:
     links:
       -
         name: 
