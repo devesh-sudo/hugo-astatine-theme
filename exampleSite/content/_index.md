@@ -4,14 +4,14 @@ imgname:
   alt: "Picture of me"
   type: image/jpeg
   
-name: "Astatine"
-personal_title: "Chemical element"
+name: "Devesh Rajpal"
+personal_title: ""
 address: 
   - 
-    name: Everywhere
-    street: Nowhere
-    postal_code: "000000"
-    locality: Earth
+    name: 
+    street: 
+    postal_code: ""
+    locality: 
 
 publications:
   - 
@@ -50,10 +50,4 @@ doi = {10.1038/ncomms2819}\n
 ---
 # Bio
 
-I am a chemical element with the symbol At and atomic number 85. I am 
-the rarest naturally occurring element in the Earth's crust, occurring only as
-the decay product of various heavier elements. All of my isotopes are
-short-lived; the most stable is astatine-210, with a half-life of 8.1 hours. 
-
-A pure sample of myself has never been assembled, because any macroscopic
-specimen would be immediately vaporized by the heat of its own radioactivity.
+I am a 2nd-year masters student of mathematics at Chennai Mathematical Institute (CMI), India. I am primarily interested in geometric analaysis which involves study of geometry of manifolds with the help of techniques from analysis. 
